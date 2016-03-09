@@ -1,0 +1,17 @@
+{
+    "name": "com.ubuntu.developer.liu-xiao-guo.samegame",
+    "description": "description of samegame",
+    "architecture": "@CLICK_ARCH@",
+    "title": "samegame",
+    "hooks": {
+        "samegame": {
+            "apparmor": "samegame/samegame.apparmor",
+            "desktop":  "samegame/samegame.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+

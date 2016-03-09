@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=samegame
+Exec=samegame
+Icon=samegame/samegame.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
